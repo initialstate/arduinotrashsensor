@@ -3,6 +3,6 @@ This is a hub for the Arduino Trash Sensor tutorial.
 
 Here you will find code materials for the tutorial as well as the tutorial itself in the [wiki](https://github.com/InitialState/arduinotrashsensor/wiki).
 
-Want a completely autonomous way to monitor rooms in your home (or even somewhere like your porch)? Want to see both your room's instantaneous status and how it's been doing over the past month? What if your child has been leaving the lights on when they're not in a room while you're at work? What if all you needed was an internet connection to check on your home or office?
+Ever wonder how much trash you produce in a week? Want to know how fast you fill up your recycling bin? Kids telling you they've taken out the trash when they really haven't? Can't remember if you put the bag in the bin and it's trash day?
 
-Well lucky for you, monitoring your home is not only easy to do... [read more](https://github.com/InitialState/arduinotrashsensor/wiki)
+There's a cheap and easy way for you to track your trash (or any other sort of receptacle for that matter)... [read more](https://github.com/InitialState/arduinotrashsensor/wiki)
