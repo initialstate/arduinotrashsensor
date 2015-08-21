@@ -11,16 +11,16 @@ const int dist = 4;
 int textsent = 0;
 
 ////////////////////////////
-//      ThingSpeak        //
+//         Twilio         //
 ////////////////////////////
 
-//API key for the Thingspeak ThingHTTP already configured
+//Authentification for the Twilio
 String accountSid = "Account_SID_Here";
 String authToken = "Auth_Token_Here";
 //the number should be formatted like +12345678912
 String sendNumber = "Number_Sending_To";
 String fromNumber = "Twilio_Number_Here";
-//thingspeak server
+//Twilio API URL
 String TwilioURL = "https://api.twilio.com/2010-04-01/Accounts/";
 
 
